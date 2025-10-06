@@ -1,0 +1,58 @@
+h1 {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+table ,table tr, table th, table td {
+    border: 1px, solid, black;
+    border-collapse: collapse;
+}
+
+#capçalera th{
+    background-color: aqua;
+    text-align: center;
+    font-weight: bold;
+    width: 100px;
+}
+
+caption {
+    font-size: 25px;
+    color: pink;
+}
+
+.programacion {
+    background-color: bisque;
+}
+
+.ingles {
+    background-color: purple;
+}
+
+.sgi {
+    background-color: gray;
+}
+
+.lenguamarca {
+    background-color: red;
+}
+
+.si {
+    background-color: aquamarine;
+}
+
+.tutoria {
+    background-color: brown;
+}
+
+.ipo {
+    background-color: pink;
+}
+
+.bd {
+    background-color: goldenrod;
+}
